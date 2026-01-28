@@ -1,6 +1,10 @@
 # 🧠 Intelligence AI
 
-> A personal bot I built to stay current with AI research without drowning in papers
+> A personal bot I built to stay current with AI research without drowning in papers, threads, and hype.
+
+People might call it an agent, but I’m not fully convinced where true autonomy begins and supervised workflows end. For now, this is very much a bot — opinionated, constrained, and intentionally supervised.
+
+I’d rather go rogue with a bot than let an agent go rogue for me 😉
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_IntelligenceAI?style=social)](https://x.com/_IntelligenceAI)
 [![Status](https://img.shields.io/badge/status-live-success.svg)]()
@@ -30,7 +34,7 @@ I wanted to stay current with AI research, but:
 - Academic abstracts bury the actual impact
 - No time to filter what's worth deep-diving
 
-**My solution:** A bot that curates, summarizes, and points me to papers I should actually read.
+**Solution:** A bot that curates, summarizes, and points me to papers I should actually read.
 
 ---
 
@@ -44,8 +48,8 @@ I wanted to stay current with AI research, but:
 5. Includes "Learn More" pointers if I want to deep-dive
 
 **Format:**
-- 7-9 tweet threads
-- Results-first (not method-first - I care about impact)
+- 7-9 tweet threads, but uses intelligence to decide on relevance
+- Qualification is Results-first (not method-first - Impact matters)
 - Always includes limitations (builds trust)
 - Links to original paper
 - ELI5 for broader understanding
@@ -56,14 +60,14 @@ I wanted to stay current with AI research, but:
 
 ## 📊 Performance & Reach
 
-### Current Metrics
+### Target Metrics
 | Metric | Value | Why It Matters |
 |--------|-------|----------------|
 | **Threads/Week** | 21 | Consistent cadence |
 | **Engagement Rate** | 2.5% → 4% target | Quality filtering drives this |
 | **Follower Growth** | Organic | Zero paid acquisition |
 | **Reach** | ~5K impressions/thread | Niche but relevant audience |
-| **Cost** | $0.05/month | Runs on coffee money |
+| **Cost** | $0.05/month | Runs on chai money |
 
 ### About Organic Growth
 
@@ -75,7 +79,7 @@ Large followings (50K+) need:
 - Trending topic participation
 - Time investment I'm not making
 
-**My goal:** Serve practitioners who want curated research, not chase vanity metrics. Trust > scale.
+**My goal:** Serve practitioners(or wannabee's) who want curated research, not chase vanity metrics. Trust > scale. 
 
 ---
 
@@ -101,7 +105,7 @@ Large followings (50K+) need:
 - **Content Generation:** Claude Sonnet 4.5, Google Gemini 2.0 Flash
 - **Data Storage:** SQLite (deduplication)
 - **Scheduling:** Python + cron jobs
-- **Publishing:** Twitter API v2
+- **Publishing:** Content Publish API v2
 - **Language:** Python 3.8+
 
 **Why these choices:**
