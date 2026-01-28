@@ -4,7 +4,7 @@
 
 People might call it an agent, but I’m not fully convinced where true autonomy begins and supervised workflows end. For now, this is very much a bot — opinionated, constrained, and intentionally supervised.
 
-I’d rather go rogue with a bot than let an agent go rogue for me 😉
+I’d rather go rogue with a bot than let an agent go rogue on my behalf 😉
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_IntelligenceAI?style=social)](https://x.com/_IntelligenceAI)
 [![Status](https://img.shields.io/badge/status-live-success.svg)]()
